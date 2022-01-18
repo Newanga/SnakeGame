@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Resources/Images/mute.png</file>
+        <file>Resources/Images/unmute.png</file>
+        <file>Resources/Images/head.png</file>
+        <file>Resources/Images/apple.png</file>
+        <file>Resources/Images/tail.png</file>
+        <file>Resources/Images/back.png</file>
+        <file>Resources/Images/test.png</file>
+        <file>Resources/Images/test1.png</file>
+        <file>Resources/Images/how.png</file>
+        <file>Resources/Images/about.png</file>
+    </qresource>
+    <qresource prefix="/Icons">
+        <file>Resources/Icons/Icon.ico</file>
+    </qresource>
+    <qresource prefix="/Sounds">
+        <file>Resources/Sounds/eat_apple.mp3</file>
+        <file>Resources/Sounds/game_menu_music.mp3</file>
+        <file>Resources/Sounds/snake_death.mp3</file>
+        <file>Resources/Sounds/snake_hiss.mp3</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>Resources/fonts/BadaBoom.ttf</file>
+    </qresource>
+</RCC>
